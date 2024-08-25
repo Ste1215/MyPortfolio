@@ -5,11 +5,12 @@ function Footer() {
     <footer className="bg-slate-800 text-white lg:p-5 flex flex-col items-center justify-center lg:flex-row flex-wrap lg:gap-32">
         <div className="flex flex-col gap-3 p-5 justify-center items-center">
           <span><img width={60} height={80} src={logo}/></span>
-          <p className="text-center">Have a project in mind? <br /> Let`s bring your ideas to life. Contact me today.
-            <br/></p>
+          <p className="text-center">Have a role in mind? <br />Let`s create something impactful together.
+            <br/>
+          </p>
         </div>
-        <div className="flex flex-col p-5 justify-center items-center">
-          <h2 className="text-[22px] font-semibold leanding-normal text-sky-400">Services</h2>
+        <div className="flex flex-col p-5 justify-center items-center lg:items-baseline">
+          <h2 className="text-[22px] font-semibold leanding-normal text-sky-400">Skills</h2>
           <ul>
             <li className="my-1 cursor-pointer">Web Development</li>
             <li className="my-1 cursor-pointer">Web Design</li>
@@ -30,7 +31,7 @@ function Footer() {
               <a href="https://www.linkedin.com/in/stefano-poiattidev" className="text-[1.2rem] flex justify-center items-center hover:text-sky-600 transition-all duration-150 ease-in-out">
                 <FaLinkedinIn/>
               </a>
-              <a href="" className="text-[1.2rem] flex justify-center items-center hover:text-sky-600 transition-all duration-150 ease-in-out">
+              <a href="https://www.instagram.com/steefanodev" className="text-[1.2rem] flex justify-center items-center hover:text-sky-600 transition-all duration-150 ease-in-out">
                 <FaInstagram/>
               </a>
               <a href="https://github.com/Ste1215" className="text-[1.2rem] flex justify-center items-center hover:text-sky-600 transition-all duration-150 ease-in-out">

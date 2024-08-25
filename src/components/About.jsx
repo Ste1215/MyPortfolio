@@ -6,11 +6,9 @@ function About() {
         <div className="h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white">
             <h1 data-aos="fade-right" className="text-[52px] font-semibold leading-normal uppercase text-cyan-400 mb-5">About Me</h1>
           <p data-aos="fade-right">
-            Hi! I`m a passionate web developer, focused on helping businesses create optimal digital experiences. My goal is to transform ideas into digital realities, from web design (UI/UX) to front-end application development, utilizing my programming skills and frameworks such as React, Tailwind CSS, and Bootstrap.
-            Currently, I`m in the final year of my studies and will be graduating within a year. 
-            In the meantime, I dedicate myself to personal projects and continuously refine my technical skills.
-             I`m also passionate about content creation, sharing my knowledge and tutorials on web development through platforms like YouTube and TikTok.
-            I`m always eager to take on new challenges, expand my expertise as a developer, and contribute to innovative and impactful projects.
+          I&apos;m a 18 y/o <b>software developer</b> passionate about <b>building exciting digital projects</b>. 
+          I specialize in front-end development and web design, using the latest technologies in the web development space.
+           I enjoy staying up-to-date with emerging trends and  applying them to real-world challenges while continuously refining my skills.
           </p>
           <div className="flex mt-8 gap-2">
             <div className="flex items-center justify-center">

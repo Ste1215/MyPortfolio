@@ -16,8 +16,8 @@ function NavBar() {
             <Link spy={true} smooth={true} to="About">
                 <li className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">About</li>
             </Link>
-            <Link spy={true} smooth={true} to="Services">
-                <li className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">Services</li>
+            <Link spy={true} smooth={true} to="Stack">
+                <li className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">Stack</li>
             </Link>
             <Link spy={true} smooth={true} to="Projects">
                 <li className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">Projects</li>
@@ -43,8 +43,8 @@ function NavBar() {
                         <Link spy={true} smooth={true} to="About">
                             <li className="hover:text-sky-600 transition border-b-2 border-slate-900 hover: text-sky-600 cursor-pointer hover:underline decoration-sky-500">About</li>
                         </Link>
-                        <Link spy={true} smooth={true} to="Services">
-                            <li className="hover:text-sky-600 transition border-b-2 border-slate-900 hover: text-sky-600 cursor-pointer hover:underline decoration-sky-500">Services</li>
+                        <Link spy={true} smooth={true} to="Stack">
+                            <li className="hover:text-sky-600 transition border-b-2 border-slate-900 hover: text-sky-600 cursor-pointer hover:underline decoration-sky-500">Stack</li>
                         </Link>
                         <Link spy={true} smooth={true} to="Projects">
                             <li className="hover:text-sky-600 transition border-b-2 border-slate-900 hover: text-sky-600 cursor-pointer hover:underline decoration-sky-500">Projects</li>
