@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { AiFillGithub } from "react-icons/ai"
 import { FaLinkedinIn, FaYoutube } from "react-icons/fa"
 import { FaInstagram } from "react-icons/fa6"
